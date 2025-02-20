@@ -2,6 +2,10 @@
 
 ThriftHub is an online thrift store platform designed specifically for university students, aimed at providing a secure, convenient, and exclusive marketplace for buying and selling second-hand items within campus communities.
 
+## Medium Link
+
+[Thrifthub Tales: Crafting Community, Curating Style](https://namrata-bhaumik.medium.com/thrifthub-tales-crafting-community-curating-style-3487db906370?source=friends_link&sk=6ee45216aae088f8126dcbace55d3e8b)
+
 ## About
 
 ThriftHub was developed as a solution to address the needs of university students who are interested in thrift shopping but face challenges with existing alternatives such as generic online marketplaces and off-campus thrift stores. By leveraging university credentials for user verification and implementing secure transaction flows, ThriftHub offers a safer and more trusted platform for students to buy and sell second-hand items.
